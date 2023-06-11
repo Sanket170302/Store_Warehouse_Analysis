@@ -6,12 +6,9 @@ Table of Contents
 Introduction  
 Data  
 Project Structure  
-Dependencies  
-Installation  
-Usage  
+Dashboard  
 Results  
-Contributing  
-License  
+Conclusion  
 
 Introduction  
 This project's primary objective is to analyse a store's annual sales data and extract meaningful insights. The analysis focuses on the following key aspects:  

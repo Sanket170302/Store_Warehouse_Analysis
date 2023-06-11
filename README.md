@@ -9,6 +9,7 @@ Project Structure
 Dashboard  
 Results  
 Conclusion  
+![Alt Text](Content.png)  
 
 Introduction  
 This project's primary objective is to analyse a store's annual sales data and extract meaningful insights. The analysis focuses on the following key aspects:  
@@ -51,10 +52,18 @@ B2B
 
 The data is assumed to be in a structured format, such as a CSV file, and is used as input for the analysis.  
 
+Solution  
+Dashboard-  
+
+![Alt Text](Final_Analysis.png)
 
 Results  
 The analysis provides insights into the following aspects:  
+![Alt Text](Analysis1.png)
+![Alt Text](Analysis2.png)
 
+Conclusion-
+![Alt Text](Conclusions.png)  
 Profitability based on age groups: Identify the age group(s) that contribute the most to the store's profits.  
 Gender-based sales: Analyze the sales performance based on gender and determine which gender generates more sales.  
 Platform analysis: Determine the platform that yields maximum sales, such as online, in-store, or other channels.  

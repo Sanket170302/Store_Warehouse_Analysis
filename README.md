@@ -55,7 +55,7 @@ The data is assumed to be in a structured format, such as a CSV file, and is use
 Solution  
 Dashboard-  
 
-![Alt Text](Final_Analysis.png)
+![Alt Text](FInal_Analysis.png)
 
 Results  
 The analysis provides insights into the following aspects:  
